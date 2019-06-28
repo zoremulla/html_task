@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+  <head>
+   <title>My Portfolio</title>
+  </head>
+  <body>
+   <div>
+     <h1> About M.Mulla </h1>
+      <br><br>
+     <h3>My Name</h3>
+      <p>My name is : <em>Mohammad Mulla abdullah</em></p>
+     <h3> My Email</h3>
+      <p>My email is : <em>zore.mulla@gmail.com</em></p>
+     <h3> My Github Username </h3>
+      <p><strong><em>Click on the username<a href="https://github.com/zoremulla/"> Zoremulla </a> to go to my github page.<strong></em></p>
+     <h3> My Hobbies And Intrests </h3>
+      <ul type="a">
+       <li>Swimming</li>
+       <li>Video Games</li>
+       <li>Watching Movies</li>
+       <li>Gym</li>
+       <li>Travelling to interesting places</li>
+      </ul>
+   </div>
+  </body>
+</html>
